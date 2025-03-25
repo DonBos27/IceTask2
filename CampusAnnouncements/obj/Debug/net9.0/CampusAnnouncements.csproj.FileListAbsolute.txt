@@ -95,3 +95,4 @@
 /Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/obj/Debug/net9.0/CampusAnnouncements.genruntimeconfig.cache
 /Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/obj/Debug/net9.0/ref/CampusAnnouncements.dll
 /Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/obj/Debug/net9.0/compressed/z28enocysg-zpdjvjnzuy.gz
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/obj/Debug/net9.0/CampusAnnouncements.sourcelink.json
