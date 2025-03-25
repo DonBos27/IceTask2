@@ -1,0 +1,16 @@
+@model CampusAnnouncements.Models.Announcement
+
+@{
+    ViewData["Title"] = "Create Annnouncements";
+}
+
+<h2>Add A New Announcement</h2>
+<form method="post">
+    <label>Title:</label>
+    <input type="text" name="Title" class="form-control" required />
+    
+    <label>Content:</label>
+    <textarea name="Content" class="form-control" required></textarea>
+    
+    <button type="submit" class="btn btn-primary mt-2">Submit</button>
+</form>

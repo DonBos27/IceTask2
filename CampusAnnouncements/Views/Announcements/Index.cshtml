@@ -1,0 +1,24 @@
+@model List<CampusAnnouncements.Models.Announcement>
+
+@{
+    ViewData["Title"] = "Annnouncements";
+}
+
+
+<h2 class="display-4 my-5 text-center">Campus Announcements</h2>
+<div class="row row-cols-1 w-100">
+    @foreach (var announcement in Model)
+    {
+        <div class="col">
+            <div class="card mb-3">
+                <div class="card-header"><i class="bi bi-megaphone me-1"></i>Announcements Posted</div>
+                <div class="card-body">
+                    <h5 class="card-title text-info">@announcement.Title</h5>
+                    <p class="card-text">@announcement.Content</p>
+                    <p class="card-text text-end"><i class="bi bi-calendar-event me-1"></i><small class="text-muted">@announcement.DatePost.ToString("dddd, dd MMMM yyyy @ HH:mm:ss")</small></p>
+                </div>
+            </div>
+        </div>
+
+    }
+</div>
