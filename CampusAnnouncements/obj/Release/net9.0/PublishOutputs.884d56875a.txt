@@ -1,0 +1,7 @@
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/bin/Publish/CampusAnnouncements
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/bin/Publish/appsettings.Development.json
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/bin/Publish/appsettings.json
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/bin/Publish/CampusAnnouncements.dll
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/bin/Publish/CampusAnnouncements.deps.json
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/bin/Publish/CampusAnnouncements.runtimeconfig.json
+/Users/donbosenga/Desktop/IceTask2/CampusAnnouncements/bin/Publish/CampusAnnouncements.pdb
